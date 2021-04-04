@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+Recipeaa - React project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Technologies used
+React
+Ajax
+JavaScript (ES6)
+HTML5
+css
+GitHub
+
+
+The brief was to:
+
+Consume a publicly available API
+Deliver the data back in a React app
+The project consumes data from https://www.edamam.com/ API.
+React APP is deploy on github page:https://sushilraj176.github.io/recipeaa/
+
+The site can be run locally by cloning the repository and typing npm install
+
+
 
 ## Available Scripts
 
